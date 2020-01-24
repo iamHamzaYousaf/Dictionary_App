@@ -1,7 +1,7 @@
 <h3>Snapshot:</h3>
 <div align="center">
  <p float="left">
-  <img src="#" width="1000" height="1300"/>
+  <img src="https://user-images.githubusercontent.com/38814709/73101224-0b9c2d80-3f11-11ea-9c3c-b5a00d96751f.png" width="900" height="600"/>
 	</p>
 </div>
 <br>
